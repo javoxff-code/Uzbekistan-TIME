@@ -22,13 +22,13 @@ let oylar = [
 ];
 
 let haftalar = [
-  "Dushanbe",
-  "Seshanbe",
-  "Chorshanbe",
-  "Payshanbe",
+  "Dushanba",
+  "Seshanba",
+  "Chorshanba",
+  "Payshanba",
   "Juma",
-  "Shanbe",
-  "Yakshanbe",
+  "Shanba",
+  "Yakshanba",
 ];
 
 let year = date.getFullYear();
